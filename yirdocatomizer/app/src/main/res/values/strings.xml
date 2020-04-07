@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">yirdoc-atomizer</string>
+
+    <string name="label_ble_status">BLE Status:</string>
+
+    <string name="label_power_percent">Power Percent:</string>
+    <string name="label_firm_version">Firm Version:</string>
+    <string name="label_serial_no">Serial Num:</string>
+
+    <string name="label_atomization_rate">Atomization Rate:</string>
+    <string name="label_atomization_rate_high">High</string>
+    <string name="label_atomization_rate_middle">Middle</string>
+    <string name="label_atomization_rate_low">Low</string>
+
+    <string name="label_operation_group">Device Operations:</string>
+    <string name="label_operation_scan">Scan</string>
+    <string name="label_operation_poweroff">Power OFF</string>
+
+    <string name="label_device_list">Breath Detection Log:</string>
+
+    <string name="scanner_title">Select device:</string>
+    <string name="scanner_empty">No device found, Please power on</string>
+    <string name="scanner_action_scan">Scan</string>
+    <string name="scanner_action_cancel">Cancel</string>
+    <string name="scanner_subtitle_bonded">BONDED DEVICES:</string>
+    <string name="scanner_subtitle__not_bonded">AVAILABLE DEVICES:</string>
+
+    <string name="no_ble">Device doesn\'t have BLE support!</string>
+
+</resources>
